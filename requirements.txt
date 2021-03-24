@@ -1,0 +1,2 @@
+fortunate==1.4.*
+Telethon==1.21.*
